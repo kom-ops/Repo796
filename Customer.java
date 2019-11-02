@@ -12,6 +12,12 @@ String CustName;
     return custId;
   }
 public String getcustName
+{
   return custName;
-
+}
+@override
+public String toString()
+{
+return custId;
+} 
 }

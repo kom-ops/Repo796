@@ -12,6 +12,11 @@ String CustName;
     return custId;
   }
 public String getcustName
+{
   return custName;
-
+}
+public String CustId()
+{
+return custId;
+} 
 }

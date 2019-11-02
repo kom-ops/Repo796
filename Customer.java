@@ -15,7 +15,8 @@ public String getcustName
 {
   return custName;
 }
-public String CustId()
+@override
+public String toString()
 {
 return custId;
 } 

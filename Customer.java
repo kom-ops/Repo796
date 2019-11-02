@@ -6,6 +6,12 @@ String CustName;
   {
     return custId;
   }
+
+  public int setcustId;
+  {
+    return custId;
+  }
 public String getcustName
   return custName;
+
 }
